@@ -11,7 +11,7 @@ Team: Natalya Maltseva, Yevhenii Moskalenko, Myroslav Andriievskyi
 
 # Gjennomføring
 Hver enkelt student legger nå inn en kort tekst om sin skole [1]
-All teksten om skole skal være paragrafer, men navnet på skolen skal være <strong>
+All teksten om skole skal være paragrafer, men navnet på skolen skal være
 Hver student sikrer at dette er synkronisert på GitHub. Dette er første runde.
  
 
@@ -21,7 +21,7 @@ Når alle har lagt inn sin skole, så skal alle gjøre en endring i en av de and
 
 Endringene er som følger:
 
-Skolenavnet skal gjøres til overskrift H2, og den skal ikke være <strong>
+Skolenavnet skal gjøres til overskrift H2, og den skal ikke være 
 Det skal ligge en lenke ett eller annet sted som peker til skolen sin nettside
 Hver student sikrer at dette er synkronisert på GitHub. Dette er andre runde.
  
