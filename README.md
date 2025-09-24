@@ -1,5 +1,5 @@
 # oblig1_alternativeA
-Team: Natalya Maltseva, Yevhenii Moskalenko, Myroslav Andriievskyi
+Team: Natalya Maltseva, Yevhenii Moskalenko, Myroslav Andriievskyi, Merzuka Marie Sakizcicegi
 ## Forberedelser
 - Lag en gruppe i "Studentgrupper" under "People" i venstremenyen på Canvas
 - Alle studentene må sette opp Git-integrasjon med deres editor (VS Code or IntelliJ)
