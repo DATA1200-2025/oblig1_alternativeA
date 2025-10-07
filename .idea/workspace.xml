@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abdc1a4c-e357-4d00-818d-1c0be2d9e961" name="Changes" comment="Fix and adding new functions to the Yev text" />
+    <list default="true" id="abdc1a4c-e357-4d00-818d-1c0be2d9e961" name="Changes" comment="Fix and adding new functions to the Yev text">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,7 @@
       <workItem from="1759789265843" duration="1094000" />
       <workItem from="1759792859604" duration="2014000" />
       <workItem from="1759868586996" duration="178000" />
-      <workItem from="1759868781736" duration="1912000" />
+      <workItem from="1759868781736" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="My text from Myroslav">
       <option name="closed" value="true" />
@@ -129,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759870339778</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix and adding new functions to the Yev text">
+      <option name="closed" value="true" />
+      <created>1759871895299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759871895299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
