@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abdc1a4c-e357-4d00-818d-1c0be2d9e961" name="Changes" comment="Fix and adding new functions to the Yev text" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;QuePasa0605&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DATA1200-2025/oblig1_alternativeA.git&quot;,
+    &quot;accountId&quot;: &quot;9479dd6d-504f-4d8b-be74-9e79aa9b617a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32v1GHZMMngz3MC2CM21HFH2Szu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/oblig1_alternativeA/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abdc1a4c-e357-4d00-818d-1c0be2d9e961" name="Changes" comment="" />
+      <created>1758286134495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758286134495</updated>
+      <workItem from="1758286135757" duration="29000" />
+      <workItem from="1758286209326" duration="291000" />
+      <workItem from="1758538289033" duration="581000" />
+      <workItem from="1758539744444" duration="5492000" />
+      <workItem from="1758805858209" duration="23000" />
+      <workItem from="1759776721748" duration="48000" />
+      <workItem from="1759789265843" duration="1094000" />
+      <workItem from="1759792859604" duration="2014000" />
+      <workItem from="1759868586996" duration="178000" />
+      <workItem from="1759868781736" duration="1912000" />
+    </task>
+    <task id="LOCAL-00001" summary="My text from Myroslav">
+      <option name="closed" value="true" />
+      <created>1758542709489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758542709489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1758545985197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758545985197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1758546816095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758546816095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix of my text">
+      <option name="closed" value="true" />
+      <created>1759793848653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759793848653</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix and adding new functions to the Yev text">
+      <option name="closed" value="true" />
+      <created>1759870339778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759870339778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My text from Myroslav" />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="Fix of my text" />
+    <MESSAGE value="Fix and adding new functions to the Yev text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix and adding new functions to the Yev text" />
+  </component>
+</project>
